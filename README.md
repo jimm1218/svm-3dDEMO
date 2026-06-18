@@ -42,6 +42,7 @@ D:\data\practice\svm
 ├── prompt.md
 ├── svm_tutorial.py
 ├── svm_animation.py
+├── requirements.txt
 └── media/
     └── videos/
         └── svm_animation/
