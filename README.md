@@ -1,11 +1,5 @@
 # SVM Kernel Trick 互動教學專案
 
-專案路徑：
-
-```text
-D:\data\practice\svm
-```
-
 這是一個以 Streamlit、Plotly、Scikit-learn 與 Manim 製作的 SVM 支援向量機互動教學專案。教學頁會先用 Manim 影片說明 Kernel Trick 的直覺，再透過互動式 2D/3D 圖表展示不同資料集、Z 軸公式與 SVM kernel 對分類邊界的影響。
 
 主要入口只有一個：
